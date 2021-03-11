@@ -14,11 +14,12 @@ function Child(props) {
 
 
             <button onClick={() => {
-                { countervalue[1](++countervalue[0]) }
+                 countervalue[1] (++countervalue[0])
+                 
             }}>Increase Number</button>
 
             <button onClick={() => {
-                { countervalue[1](--countervalue[0]) }
+                 countervalue[1](--countervalue[0]) 
             }}>Decrease Number</button>
         </div>
 
