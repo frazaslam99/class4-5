@@ -1,5 +1,5 @@
 import React, { useState } from 'react';
-import  Message  from './Component/result'
+// import  Message  from './Component/result'
 import './App.css';
 import Parent from "./Component/Class5/parent"
 import Countercontext from './Component/Class5/countercontext';
